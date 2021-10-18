@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "template.js",
   "scripts": {
-    "development": "nodemon",
+    "development": "nodemon --inspect",
     "build": "webpack --config webpack.config.client.production.js && webpack --mode=production --config webpack.config.server.js",
     "start": "NODE_ENV=production node ./dist/server.generated.js"
   },
