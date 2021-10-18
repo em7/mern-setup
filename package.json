@@ -1,0 +1,8 @@
+{
+  "name": "mern-simplesetup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/em7/mern-setup.git",
+  "author": "em7 <mm007.emko@gmail.com>",
+  "license": "MIT"
+}
